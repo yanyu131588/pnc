@@ -1,2 +1,6 @@
 build
 build_arm64
+bin
+bin-arm64
+lib
+lib-arm64

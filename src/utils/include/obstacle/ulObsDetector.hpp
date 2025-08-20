@@ -29,6 +29,24 @@ typedef enum obsDir
     #endif
 };
 
+/*
+字段说明‌
+    ‌flObs (Front Left Obstacle)‌
+        类型：bool（布尔值）
+        含义：左侧前方超声波传感器是否检测到障碍物（true=有障碍，false=无障碍）。
+    ‌frObs (Front Right Obstacle)‌
+        类型：bool
+        含义：右侧前方超声波传感器是否检测到障碍物。
+    ‌rObs (Right Obstacle)‌
+        类型：bool
+        含义：右侧传感器是否检测到障碍物。
+    ‌lObs (Left Obstacle)‌
+        类型：bool
+        含义：左侧传感器是否检测到障碍物。
+    ‌bObs (Back Obstacle)‌
+        类型：bool
+        含义：后方传感器是否检测到障碍物。
+*/
 struct UltrasonicObstacleState {
     bool flObs;   
     bool frObs;

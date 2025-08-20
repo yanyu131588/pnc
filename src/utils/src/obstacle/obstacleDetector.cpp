@@ -19,7 +19,7 @@ void ObstacleDetector::processScan(const LaserScanData& scan , const Point3d & o
     
     float lage = params_.angle_min + vids[0] * params_.angle_increment;
     float lrg = scan.ranges[vids[0]];
-
+    //find continue point , and check compute obstacle box
     for (int idx : vids) {
         float cura = params_.angle_min + idx * params_.angle_increment;
         float curr = scan.ranges[idx];
