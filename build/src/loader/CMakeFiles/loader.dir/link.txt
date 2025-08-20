@@ -1,2 +1,0 @@
-/usr/bin/ar qc libloader.a CMakeFiles/loader.dir/src/loadJson.cpp.o
-/usr/bin/ranlib libloader.a

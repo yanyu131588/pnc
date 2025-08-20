@@ -1,2 +1,0 @@
-/usr/bin/ar qc libpathPlanner.a CMakeFiles/pathPlanner.dir/src/HybridStar.cpp.o CMakeFiles/pathPlanner.dir/src/collisionChecker.cpp.o CMakeFiles/pathPlanner.dir/src/pathPlanner.cpp.o CMakeFiles/pathPlanner.dir/src/plannerNode.cpp.o
-/usr/bin/ranlib libpathPlanner.a

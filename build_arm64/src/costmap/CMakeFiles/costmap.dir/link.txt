@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcostmap.a CMakeFiles/costmap.dir/src/costmap.cpp.o CMakeFiles/costmap.dir/src/costmap2D.cpp.o CMakeFiles/costmap.dir/src/footprint.cpp.o CMakeFiles/costmap.dir/src/inflationLayer.cpp.o CMakeFiles/costmap.dir/src/layer.cpp.o CMakeFiles/costmap.dir/src/layeredCostmap.cpp.o
-/usr/bin/ranlib libcostmap.a
