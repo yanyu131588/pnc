@@ -1,0 +1,8 @@
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libjson.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libutils.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libcostmap.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libpathPlanner.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/liblocalPlanner.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libloader.a
+/home/yanyu/Downloads/8.8/8.8/src/lib-arm64/libcomm.a
+/home/yanyu/Downloads/8.8/8.8/src/bin-arm64/clientPNC

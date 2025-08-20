@@ -1,0 +1,8 @@
+/home/yanyu/Downloads/8.8/8.8/src/lib/libjson.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/libutils.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/libcostmap.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/libpathPlanner.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/liblocalPlanner.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/libloader.a
+/home/yanyu/Downloads/8.8/8.8/src/lib/libcomm.a
+/home/yanyu/Downloads/8.8/8.8/src/bin/clientPNC

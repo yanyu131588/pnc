@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcomm.a CMakeFiles/comm.dir/src/msgQueue.cpp.o CMakeFiles/comm.dir/src/tcpClient.cpp.o CMakeFiles/comm.dir/src/tcpServer.cpp.o
+/usr/bin/ranlib libcomm.a
